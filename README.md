@@ -1,4 +1,4 @@
-# Sensor Fusion Assignemnt - MSc Autonomous Vehicle Dynamics and Control, Cranfield University
+# Sensor Fusion Assignment - Autonomous Vehicle Dynamics and Control
 
 
 ### Discription
