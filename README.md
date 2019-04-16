@@ -37,5 +37,5 @@ A set of potential resampling approaches have been implmented. The goal of that 
 
 ### Usage
 
-the isotropic and the anisotropic algorithms are both in seperated directories. In order to get an visualised test you can run the Main_isotropic_XXX or Main_anisotropic files.
+the isotropic and the anisotropic algorithms are both in seperated directories. In order to get an visualised test you can run the Main_isotropic_XXX or Main_anisotropic_XXX files. XXX stands for the name of the sensor fusion algorithm which is used for that test scenario.
 
