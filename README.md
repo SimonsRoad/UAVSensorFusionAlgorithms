@@ -11,6 +11,11 @@ behaviour. The prior developed algorithms (Extended Kalman, Unscented Kalman and
 
 The position of the GPS jamming vehicle is not directly observable and must be therefore observed by utilizing obseravble measurements. In order to localise the target that is confusing the GPS signals, a power measurement of the jamming signal is used. This method is called the Received signal strength (RSS) method, which is often used for localisation of energy emitting sources.
 
+#### UAV Guidance Approach
+
+The guidance approach which is utilised for the UAV guidance is a vector field based path following. In which the UAV first follow a straight line approach to the estimated position of the target. When the UAV reaches a certain distance it starts to follow a loiter path.
+
+
 #### Sensor Fusion Algorithms
 
 The goal of the assignment was it to develop and implement different sensor fusion algorihtms for both an isotropic and anistropic GPS jammer pattern. The following algorhtms were implemented:
