@@ -2,8 +2,7 @@
 					 MATLAB Code for the Sensor Fusion Assignment
 ======================================================================================================================
 Developer: Johannes Autenrieb
-Date: 29/03/2019
-Student-Id: 293701
+Date of Submission: 29/03/2019
 
 
 Organisation of Folder:
